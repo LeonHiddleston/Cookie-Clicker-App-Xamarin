@@ -1,0 +1,13 @@
+C:\Users\leonh\source\repos\Mobile_clicker\Mobile_clicker\Mobile_clicker\obj\Debug\netstandard2.0\Mobile_clicker.csprojAssemblyReference.cache
+C:\Users\leonh\source\repos\Mobile_clicker\Mobile_clicker\Mobile_clicker\bin\Debug\netstandard2.0\Mobile_clicker.deps.json
+C:\Users\leonh\source\repos\Mobile_clicker\Mobile_clicker\Mobile_clicker\bin\Debug\netstandard2.0\Mobile_clicker.dll
+C:\Users\leonh\source\repos\Mobile_clicker\Mobile_clicker\Mobile_clicker\bin\Debug\netstandard2.0\Mobile_clicker.pdb
+C:\Users\leonh\source\repos\Mobile_clicker\Mobile_clicker\Mobile_clicker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\leonh\source\repos\Mobile_clicker\Mobile_clicker\Mobile_clicker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\leonh\source\repos\Mobile_clicker\Mobile_clicker\Mobile_clicker\obj\Debug\netstandard2.0\Mobile_clicker.csproj.CoreCompileInputs.cache
+C:\Users\leonh\source\repos\Mobile_clicker\Mobile_clicker\Mobile_clicker\obj\Debug\netstandard2.0\Mobile_clicker.AssemblyInfoInputs.cache
+C:\Users\leonh\source\repos\Mobile_clicker\Mobile_clicker\Mobile_clicker\obj\Debug\netstandard2.0\Mobile_clicker.AssemblyInfo.cs
+C:\Users\leonh\source\repos\Mobile_clicker\Mobile_clicker\Mobile_clicker\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\leonh\source\repos\Mobile_clicker\Mobile_clicker\Mobile_clicker\obj\Debug\netstandard2.0\Mobile_clicker.dll
+C:\Users\leonh\source\repos\Mobile_clicker\Mobile_clicker\Mobile_clicker\obj\Debug\netstandard2.0\Mobile_clicker.pdb
+C:\Users\leonh\source\repos\Mobile_clicker\Mobile_clicker\Mobile_clicker\obj\Debug\netstandard2.0\Shop.xaml.g.cs
